@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akash Singh
 
-Software Engineer | Backend Specialist | Full-Stack Builder
+Software Engineer
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=It%20is%20not%20the%20language%20that%20makes%20programs%20appear%20simple.%20It%20is%20the%20programmer%20that%20make%20the%20language%20appear%20simple!&author=Robert%20C.%20Martin&theme=github_dark)](https://github.com/PiyushSuthar/github-readme-quotes)
 
@@ -11,7 +11,7 @@ Software Engineer | Backend Specialist | Full-Stack Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/itsaasmaan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/itsAasmaan/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat&logo=chromatic&logoColor=white)](https://itsaasmaan.github.io/portfolio/)
 ---
 
 ## 🚀 Tech Stack
